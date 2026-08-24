@@ -14,7 +14,7 @@ Unlike traditional login screens that hide all complexity behind a **"Sign In"**
 
 Users don't just log in — they visually ride alongside their credentials through TLS encryption, Scrypt hashing, and JWT issuance. This turns the traditionally hidden authentication process into an interactive security audit.
 
-> ** *"Watch your password travel securely. Every step is shown in real-time."*
+> *"Watch your password travel securely. Every step is shown in real-time."*
 
 ---
 
